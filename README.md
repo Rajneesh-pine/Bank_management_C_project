@@ -12,6 +12,7 @@ d) Transfer the amount to any person holding account in the bank.
 e) Exit from the bank.
 
 The main function contains all the functions using a switch case. The user has to decide with what functionalities he wants to go.
+
 The entire Project has been divided into 5 subsequent parts, namely:
 1)	Welcoming the customer
 2)	Presenting the options of various functionalities  to the customer
