@@ -1,18 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <stdbool.h>
-
-
 int Main() {
-    typedef struct user {
-    char name[20];
-    char dob[11];
-    long long phoneno;
-    long long aadharno;
-    char account[7];
-    int balance;
-} u;
+
     int s;
     do{
     printf("<-----------Welcome TO Bank Of Ramgarh-----------\n>");
