@@ -1,3 +1,4 @@
+#include "bank_man.h"
 int Main() {
 
     int s;
