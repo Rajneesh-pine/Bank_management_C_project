@@ -3,7 +3,9 @@
 #include <string.h>
 #include <stdbool.h>
 
-typedef struct user {
+
+int Main() {
+    typedef struct user {
     char name[20];
     char dob[11];
     long long phoneno;
@@ -11,7 +13,6 @@ typedef struct user {
     char account[7];
     int balance;
 } u;
-int Main() {
     int s;
     do{
     printf("<-----------Welcome TO Bank Of Ramgarh-----------\n>");
